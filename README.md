@@ -19,7 +19,7 @@
     
 - :telescope: I’m working as a Senior Bioinformatics Programmer.
 
-- :seedling: #Researcher @BioInformatics_Quantum_AI_Scientist
+- :seedling: #Researcher @Bioinformatics_Quantum_AI_Scientist
 
 - :zap: In my free time, I code my own joy!.
 
