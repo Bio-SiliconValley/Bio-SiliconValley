@@ -43,7 +43,7 @@
 
   <a href="https://www.biosiliconlabs.com/Bio-Silicon_Valley">
     <img
-      src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/bio-silicon-valley.png"
+      src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/BSLV.png"
       width="100%"
       alt="Bio-Silicon Valley"
     />
