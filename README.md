@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhinandan0y&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-📊 : <a href="https://github.com/abhinandan0y">@Scientist Abhinandan Yadav</a>: Founder of <a href="https://www.biosiliconlabs.com/">Bio-Silicon Labs</a> && <a href="https://www.biosiliconlabs.com/DRYeWorks">DRYeWorks</a> && <a href="https://www.biosiliconlabs.com/WarpAD">WarpAD</a> && <a href="https://www.biosiliconlabs.com/S__port22">S__port22</a> @Bio-Silicon Valley
+📊 : <a href="https://github.com/abhinandan0y" style="text-decoration: none;>@Scientist Abhinandan Yadav</a>: Founder of <a href="https://www.biosiliconlabs.com/">Bio-Silicon Labs</a> && <a href="https://www.biosiliconlabs.com/DRYeWorks">DRYeWorks</a> && <a href="https://www.biosiliconlabs.com/WarpAD">WarpAD</a> && <a href="https://www.biosiliconlabs.com/S__port22">S__port22</a> @Bio-Silicon Valley
 
 * 🔭 I’m working as a Senior Bioinformatics Programmer.
 * 🌱 Researcher @Bioinformatics_Quantum_AI_Scientist
