@@ -39,14 +39,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandan0y\&theme=dark\&mode=weekly)
 
-<div align="center">
-
-  <a href="https://www.biosiliconlabs.com/Bio-Silicon_Valley">
-    <img
-      src="https://raw.githubusercontent.com/abhinandan0y/abhinandan0y/main/images/BSLV.png"
-      width="100%"
-      alt="Bio-Silicon Valley"
-    />
-  </a>
-
-</div>
