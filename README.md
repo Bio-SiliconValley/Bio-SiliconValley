@@ -15,7 +15,7 @@
   -->
   <img src="https://komarev.com/ghpvc/?username=abhinandan0y&style=flat-square&color=blue" alt=""/>
 </div>
-📊 : Founder of Bio-Silicon Labs && DRYeWorks && WarpAD @Bio-Silicon Valley 
+📊 : Scientist Abhinandan Yadav : Founder of Bio-Silicon Labs && DRYeWorks && WarpAD @Bio-Silicon Valley 
     
 - :telescope: I’m working as a Senior Bioinformatics Programmer.
 
